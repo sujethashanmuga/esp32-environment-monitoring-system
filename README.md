@@ -79,7 +79,7 @@ to the Serial Monitor.
 
 Run the project online:
 
-[Open ESP32 Simulation](PASTE_YOUR_WOKWI_URL_HERE)
+[Open ESP32 Simulation](https://wokwi.com/projects/477781622893071361)
 
 ## Testing and Validation
 
@@ -119,7 +119,7 @@ Record the actual results obtained during simulation.
 
 ## Author
 
-Your Name
+Sujetha S
 
 Electronics and Instrumentation Engineering
 
